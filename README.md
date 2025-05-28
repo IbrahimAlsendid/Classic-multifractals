@@ -1,4 +1,4 @@
 # Classical-multifractals
-Multifractals in dynamical systems (on the doubly non-monotonic perturbed map) 
+Multifractals in dynamical systems (the behavior of the Continuous Automorphism of the Torus map) 
 
-This repository contains code for producing the figures in a paper submitted to the International Conference on Mathematical Analysis and Applications in Science and Engineering –ICMASC’24.
+This repository contains code for producing the figures in a paper submitted to the (8th ICST) International Conference on Science and Technology – icst2025.
